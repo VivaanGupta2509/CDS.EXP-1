@@ -77,7 +77,7 @@ Leap Year: This program uses conditional statements to check the divisibility ru
 ## Output - 
 1.
 <img width="664" alt="Screenshot 2024-07-30 at 1 02 46 AM" src="https://github.com/user-attachments/assets/1e859e8b-bff8-48f7-8279-a1a2c53d25b5">
-2.
+
 ## Conclusion -
 These basic programs provide a solid foundation for understanding C++ syntax and basic operations. 
 They illustrate how to use input/output streams, arithmetic operations, and conditional statements, which are essential for more complex programming tasks.
