@@ -77,8 +77,12 @@ Leap Year: This program uses conditional statements to check the divisibility ru
 ## Output - 
 1.
 <img width="664" alt="Screenshot 2024-07-30 at 1 02 46 AM" src="https://github.com/user-attachments/assets/1e859e8b-bff8-48f7-8279-a1a2c53d25b5">
-2. <img width="682" alt="Screenshot 2024-07-30 at 1 17 17 AM" src="https://github.com/user-attachments/assets/0c4554b7-ad24-4597-bb5b-5a6975e97080">
+
+2.
+<img width="682" alt="Screenshot 2024-07-30 at 1 17 17 AM" src="https://github.com/user-attachments/assets/0c4554b7-ad24-4597-bb5b-5a6975e97080">
+
 3.
+<img width="690" alt="Screenshot 2024-07-30 at 1 19 20 AM" src="https://github.com/user-attachments/assets/3ffc2392-add4-407e-aba4-45f6610a08a5">
 
 ## Conclusion -
 These basic programs provide a solid foundation for understanding C++ syntax and basic operations. 
